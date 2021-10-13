@@ -6,6 +6,7 @@
 ## <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quentiins" alt="quentiins" /></a> </p>
 
 
+- 🎓 Diplômé d'un BAC STMG option SIG.
 - 📫 Comment me contacter ? **quentseurt@hotmail.fr**
 
 
