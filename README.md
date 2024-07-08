@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quentin ! 🇫🇷</h1>
-<h3 align="center">Je suis Quentin , âgé de 24 ans et actuellement en formation à l'Institut Marie Thérèse Solacroup situé à Dinard en Bretagne.</h3>
+<h3 align="center">Je suis Quentin , âgé de 25 ans et actuellement en fin de formation à l'Institut Marie Thérèse Solacroup situé à Dinard en Bretagne.</h3>
 
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=quentiins&label=Profile%20views&color=0e75b6&style=flat" alt="quentiins" /> </p>
 
